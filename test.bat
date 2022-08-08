@@ -1,1 +1,1 @@
-echo "Creating the DEPLOYING file %date% : %time%"
+echo "Creating the TESTING file %date% : %time%"
