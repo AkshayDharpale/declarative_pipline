@@ -1,0 +1,1 @@
+echo "Creating the DEPLOYING file %date% : %time%"

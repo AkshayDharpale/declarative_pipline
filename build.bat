@@ -1,0 +1,1 @@
+echo "Creating the BUILD file %date% : %time%"
